@@ -1,0 +1,11 @@
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\bin\Debug\netcoreapp2.2\ProdDeliverybk1.7.deps.json
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\bin\Debug\netcoreapp2.2\ProdDeliverybk1.7.runtimeconfig.json
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\bin\Debug\netcoreapp2.2\ProdDeliverybk1.7.runtimeconfig.dev.json
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\bin\Debug\netcoreapp2.2\ProdDeliverybk1.7.dll
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\bin\Debug\netcoreapp2.2\ProdDeliverybk1.7.pdb
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\obj\Debug\netcoreapp2.2\ProdDeliverybk1.7.csprojAssemblyReference.cache
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\obj\Debug\netcoreapp2.2\ProdDeliverybk1.7.csproj.CoreCompileInputs.cache
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\obj\Debug\netcoreapp2.2\ProdDeliverybk1.7.AssemblyInfoInputs.cache
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\obj\Debug\netcoreapp2.2\ProdDeliverybk1.7.AssemblyInfo.cs
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\obj\Debug\netcoreapp2.2\ProdDeliverybk1.7.dll
+C:\Users\prafu\workspace\csharp\exercises\ProdDeliverybk1.7\obj\Debug\netcoreapp2.2\ProdDeliverybk1.7.pdb
